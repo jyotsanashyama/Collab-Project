@@ -1,4 +1,4 @@
-from turtle import *
+from turtle import * # to make this code work, import turtle
 color("red")
 begin_fill()
 pensize(3)
